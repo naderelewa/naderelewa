@@ -31,6 +31,8 @@ Product management for AI agents, from idea to post-production. The open-source 
 <div align="center">
 
 [![stars](https://img.shields.io/github/stars/naderelewa/Product-to-Prod?style=flat-square&label=stars&labelColor=1B2836&color=F9F5EC)](https://github.com/naderelewa/Product-to-Prod/stargazers)
+[![forks](https://img.shields.io/github/forks/naderelewa/Product-to-Prod?style=flat-square&label=forks&labelColor=1B2836&color=F9F5EC)](https://github.com/naderelewa/Product-to-Prod/forks)
+[![visitors](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnaderelewa%2FProduct-to-Prod%2Fstats%2Ftraffic.json&style=flat-square&labelColor=1B2836&color=F9F5EC)](https://github.com/naderelewa/Product-to-Prod/tree/stats)
 [![release](https://img.shields.io/github/v/release/naderelewa/Product-to-Prod?style=flat-square&label=release&labelColor=1B2836&color=F9F5EC)](https://github.com/naderelewa/Product-to-Prod/releases)
 [![license](https://img.shields.io/github/license/naderelewa/Product-to-Prod?style=flat-square&label=license&labelColor=1B2836&color=F9F5EC)](https://github.com/naderelewa/Product-to-Prod/blob/main/LICENSE)
 [![suite](https://img.shields.io/github/actions/workflow/status/naderelewa/Product-to-Prod/suite.yml?style=flat-square&label=suite&labelColor=1B2836&color=F9F5EC)](https://github.com/naderelewa/Product-to-Prod/actions/workflows/suite.yml)
